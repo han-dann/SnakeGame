@@ -18,8 +18,8 @@ Requirements
 - Java IDE or any text editor of your choice.
 
 Showcasing
+<img width="1325" alt="Screenshot 2023-06-10 at 7 31 25 AM" src="https://github.com/han-dann/SnakeGame/assets/98670479/fbad37f7-f865-4c9f-afa0-1cfa1b5bc73f">
 
-<img width="1440" alt="Screenshot 2023-06-10 at 7 31 22 AM" src="https://github.com/han-dann/SnakeGame/assets/98670479/b59904ff-0de1-4307-8f04-83cec37adfba">
 
 <img width="1293" alt="Screenshot 2023-06-10 at 7 31 10 AM" src="https://github.com/han-dann/SnakeGame/assets/98670479/54de9f9d-b04c-48c1-9e1e-3c4cc3397cda">
 
